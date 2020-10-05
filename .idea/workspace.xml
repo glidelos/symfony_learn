@@ -7,6 +7,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +65,11 @@
       <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iS9dvajWD48e2LKIPodpG78aWi" />
@@ -97,7 +104,7 @@
       <workItem from="1601890218421" duration="1307000" />
       <workItem from="1601906984134" duration="2099000" />
       <workItem from="1601909103807" duration="1691000" />
-      <workItem from="1601915129891" duration="2588000" />
+      <workItem from="1601915129891" duration="7057000" />
     </task>
     <servers />
   </component>
@@ -105,6 +112,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="836" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601937405050">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state x="836" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.991@0.27.1920.991" timestamp="1601937405050" />
     <state x="1123" y="226" width="623" height="600" key="NewPhpClassDialog" timestamp="1601915315643">
       <screen x="0" y="27" width="1920" height="991" />
     </state>
